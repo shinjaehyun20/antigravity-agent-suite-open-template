@@ -1,0 +1,26 @@
+# Antigravity Master Agent Suite
+
+> Autonomous Multi-Agent Suite for Enterprise SDLC, Design, Procurement, & Verification
+
+## Purpose
+This repository serves as the canonical persistent registry for 28 specialized Antigravity subagents, operating under a unified lifecycle: goal -> worktree -> evidence -> acceptance gate. It is built on zero emotional self-praise, strict 3rd-party verification, structured inter-agent handoff envelopes, and non-negotiable write boundaries.
+
+## Features
+- Production-grade multi-agent execution framework.
+- 28 specialized subagents across 6 functional clusters.
+- Zero emotional self-praise; progress requires quantitative metrics.
+- Supplied source immutability (local staging with SHA256 integrity checks).
+- 3rd-party verification requirement for all tasks.
+
+## Agent Clusters
+1. Orchestration & Governance (workflow-orchestrator, team-work-orchestrator, team-work-verifier)
+2. Architecture, Development & Verification (system-architect, lead-developer, audit-qa-verifier, database-graph-architect)
+3. Specialized Design, Publishing & Art Direction (creative-visual-art-director, figma-app-uiux-designer, web-publishing-specialist, design-system-formatter)
+4. Requirements, Cost Estimation & Procurement (requirements-spec-analyst, function-point-estimator, g2b-rfp-crawler)
+5. 3D Graphics, Video Synthesis & Game Engine (video-media-synthesis-specialist, game-3d-unreal-blender-engine-developer)
+6. Research, Mail, Archiving & Operations (8 specialized agents including academic-research-benchmarker, technical-writer, etc.)
+
+## Project Information
+- Maintainer: Shin Jaehyun (Wylie)
+- Status: Fully Verified (28 Agents)
+- Runtime: Antigravity / Gemini 3.6
